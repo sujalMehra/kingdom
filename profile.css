@@ -9,6 +9,7 @@
 body{
    
     color: #ededed;
+    background: #081b29;
 }
 
 .header{
@@ -45,7 +46,7 @@ body{
 
 .home{
     height: 100vh;
-    background: url('./Untitled\ design.png') no-repeat;
+   background: url('');
     background-size: cover;
     background-position: center;
     display: flex;
